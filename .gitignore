@@ -1,0 +1,11 @@
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# C
+**/a.exe*
+**/a.out*
+
+# Miscellaneous
+**/.DS_Store
