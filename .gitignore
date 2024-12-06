@@ -1,0 +1,8 @@
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+**/a.exe
+**/a.out
+
+**/.DS_Store
